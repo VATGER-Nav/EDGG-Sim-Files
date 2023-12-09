@@ -1,2 +1,2 @@
-# edff-sim-files
-Repository for sim files for RG Frankfurt
+# edgg-sim-files
+Repository for sim files for FIR Langen
